@@ -1,2 +1,2 @@
 # TSA-project-EIS
-Project for complete TSA SUPA course
+Project for completion of TSA SUPA course
